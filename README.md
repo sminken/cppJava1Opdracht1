@@ -1,4 +1,4 @@
-# cppJava1Opdracht1    8 oktober 2017
+# CPP Java 1 Opdracht 1:    8 oktober 2017
 Opdracht in het werken met ArrayList ten behoeve van het inschrijven van studenten bij een instelling.
 
 Bevat een systeem voor de registratie van instellingen en studenten. Van een instelling worden de naam, 
